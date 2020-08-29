@@ -1,6 +1,8 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our new slide!"
 ---
 Ahí va la cosa
-Use the left arrow to go back!
+Este es el primer push
+que será agregado a la página
+Usa la flecha izquierda para volver
